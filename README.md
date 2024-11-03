@@ -224,7 +224,7 @@ Although BiblioHub operates proficiently, it will most certainly benefit from im
 -	addition of more entities to include other media formats including audiobooks, films, albums, video games, etc.
 -	 integration with other external databases/libraries to help users find their item of interest
 -	further optimization for scalability and performance as the data sets for the DBMS grow
-![image](https://github.com/user-attachments/assets/04eaf296-b7c5-4500-805d-1642612a499c)
+
 
 
 
