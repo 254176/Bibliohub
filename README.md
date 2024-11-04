@@ -227,6 +227,9 @@ Although BiblioHub operates proficiently, it will most certainly benefit from im
 
 
 
+# ER Diagram: 
+<img width="486" alt="Relation" src="https://github.com/user-attachments/assets/77ecf2db-f756-4b69-85ca-5d1ba3cc9cd1">
+
 
 
 
